@@ -1,0 +1,26 @@
+{
+  "name": "todo",
+  "version": "0.1.1",
+  "description": "Initial draft of todo app",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Owenet/todo"
+  },
+  "keywords": [
+    "to do list",
+    "todo list",
+    "todo"
+  ],
+  "author": "Jonathan Owen <jonathan.r.owen@gmail.com>",
+  "license": "MIT",
+  "bugs": "1. alpha list, 2. beta list",
+  "dependencies": {
+    "@angular/cli": "^12.2.2",
+    "rxjs": "^6.0.0"
+  }
+}
